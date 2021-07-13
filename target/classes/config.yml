@@ -1,0 +1,9 @@
+TNTtime1: 3
+TNTtime2: 6
+TNTtime3: 9
+TNTDamage1: 15
+TNTDamage2: 20
+TNTDamage3: 25
+EnableBlockDrop: true
+Soundrange: 5
+SpawnPointProtection : 10

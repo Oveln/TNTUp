@@ -1,0 +1,5 @@
+name: tntup
+author: Oveln
+version: 1.0.0
+main: me.oveln.tntup.main
+api-version: "1.12"
